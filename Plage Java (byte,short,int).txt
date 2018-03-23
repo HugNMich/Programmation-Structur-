@@ -1,0 +1,4 @@
+byte -128 a 127 1 octet
+short -32 728 a 32 767 2 octet
+int -2 147 000 000 a -2 147 000 000 4 octet
+long -9 000 000 000 a 9 000 000 000 8 octet

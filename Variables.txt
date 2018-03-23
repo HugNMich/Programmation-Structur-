@@ -1,0 +1,3 @@
+char = '';
+String = "";
+int = 2;

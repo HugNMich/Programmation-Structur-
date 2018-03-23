@@ -1,0 +1,9 @@
+Utile pour trnasformer un nombre réel en nombre entier sans changé le type de la variable a la base.
+Exemple:
+
+int = 5, result;
+float x = 2.0f
+result = (int)(a / x);
+
+result = 2 et non 2.0 a cause du CAST.
+
